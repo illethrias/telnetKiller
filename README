@@ -1,8 +1,9 @@
-
+!!! Work in progress !!!
 
 
 [About this project]
-
+This tool was created out of frustration from unsecured IoT devices, where was no possibility to set password nor permanently disable telnet.
+It will evolve as I or anybody else find other such devices at the moment limited amount of DVB-T boxes are supported.
 
 
 [Config file and its sections]
