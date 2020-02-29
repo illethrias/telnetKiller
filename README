@@ -1,0 +1,19 @@
+
+
+
+[About this project]
+
+
+
+[Config file and its sections]
+sections:
+scan, <targets>
+
+scan
+subnet
+
+traget either hostname or ip
+whitelist = True(implicit false)
+username
+password
+port
